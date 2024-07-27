@@ -2,7 +2,7 @@
 
 # Trading algorithm
 
-
+print("Hello World")
 
 # Video #2
 
